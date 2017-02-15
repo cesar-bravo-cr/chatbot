@@ -1,2 +1,2 @@
 # chatbot
-Chatbot using Watson 
+This is a Chatbot using Watson Conversation API
